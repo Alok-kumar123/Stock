@@ -1,7 +1,7 @@
 pandas
 numpy
 yfinance
-tensorflow
-keras
+tensorflow==2.15.0
+keras==2.15.0
 streamlit
 matplotlib
